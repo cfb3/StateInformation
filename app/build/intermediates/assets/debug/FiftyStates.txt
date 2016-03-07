@@ -1,0 +1,50 @@
+Alabama,http://www.alabama.gov/,Montgomery,Yellowhammer
+Alaska,http://www.state.ak.us/,Juneau,Willow Ptarmigan
+Arizona,http://az.gov/,Phoenix,Cactus Wren
+Arkansas,http://www.state.ar.us/,Little Rock,Mockingbird
+California,http://www.ca.gov/,Sacramento,CaliforniaValley Quail
+Colorado,http://www.colorado.gov/,Denver,Lark Bunting
+Connecticut,http://www.ct.gov/,Hartford,Robin
+Delaware,http://www.delaware.gov/,Dover,Blue Hen Chicken
+Florida,http://www.myflorida.com/,Tallahassee,Mockingbird
+Georgia,http://www.georgia.gov/,Atlanta,Brown Thrasher
+Hawaii,http://pahoehoe.ehawaii.gov/portal/,Honolulu,Nene
+Idaho,http://www.idaho.gov/,Boise,Mountain Bluebird
+Illinois,http://www.illinois.gov/,Springfield,Cardinal
+Indiana,http://www.in.gov/,Indianapolis,Cardinal
+Iowa,http://www.iowa.gov/,Des Moines,Eastern Goldfinch
+Kansas,http://www.kansas.gov/,Topeka,Western Meadowlark
+Kentucky,http://kentucky.gov/,Frankfort,Cardinal
+Louisiana,http://www.louisiana.gov/wps/portal/,Baton Rouge,Eastern Brown Pelican
+Maine,http://www.maine.gov/,Augusta,Chickadee
+Maryland,http://www.maryland.gov/,Annapolis,Baltimore Oriole
+Massachusetts,http://www.mass.gov/,Boston,Chickadee
+Michigan,http://www.michigan.gov/,Lansing,Robin
+Minnesota,http://www.state.mn.us/,Saint Paul,Common Loon
+Mississippi,http://www.mississippi.gov/,Jackson,Mockingbird
+Missouri,http://www.missouri.gov/,Jefferson City,Bluebird
+Montana,http://www.discoveringmontana.com/default.asp,Helena,Western Meadowlark 
+Nebraska,http://www.nebraska.gov/,Lincoln,Western Meadowlark
+Nevada,http://nv.gov/,Carson City,Mountain Bluebird
+New Hampshire,http://www.state.nh.us/,Concord,Purple Finch
+New Jersey,http://www.state.nj.us/,Trenton,Eastern Goldfinch
+New Mexico,http://www.newmexico.gov/,Santa Fe,Roadrunner
+New York,http://www.state.ny.us/,Albany,Bluebird
+North Carolina,http://www.nc.gov/,Raleigh,Cardinal
+#North Dakota,http://discovernd.com/,
+#Ohio,http://ohio.gov/,
+#Oklahoma,http://www.ok.gov/,
+#Oregon,http://www.oregon.gov/,
+#Pennsylvania,http://pa.gov/,
+#Rhode Island,http://www.ri.gov/index.php,
+#South Carolina,http://sc.gov/,
+#South Dakota,http://www.state.sd.us/,
+#Tennessee,http://www.tn.gov/,
+#Texas,http://www.state.tx.us/,
+#Utah,http://www.utah.gov/,
+#Vermont,http://vermont.gov/,
+#Virginia,http://www.virginia.gov/,
+#Washington,http://access.wa.gov/,
+#West Virginia,http://www.wv.gov/,
+#Wisconsin,http://www.wisconsin.gov/state/index.html,
+#Wyoming,http://wyoming.gov/,

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Charles/Documents/OneDrive/Z is the End/StateInformation/app/src/main/assets"><file name="FiftyStates.txt" path="/Users/Charles/Documents/OneDrive/Z is the End/StateInformation/app/src/main/assets/FiftyStates.txt"/></source></dataSet><dataSet config="debug"><source path="/Users/Charles/Documents/OneDrive/Z is the End/StateInformation/app/src/debug/assets"/></dataSet></merger>
